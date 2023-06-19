@@ -7,3 +7,6 @@ We found this graph not to be the best way to represent the information. This do
 
 # Solution:
 We collecetd the worldwide data of COVID-19 spread from CMS website and tried to represent the data in a more effective way.
+
+# Collaborators:
+Indu Sharma, Carter Forry
